@@ -61,6 +61,7 @@ const TodoInput = () => {
 
   const handleLogout = () => {
     dispatch(logout());
+    nav("/");
   };
 
   const changePriorityColour = () => {
