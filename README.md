@@ -15,15 +15,15 @@ This is a simple Todo application built with React, Redux Toolkit, Material UI, 
 
 To run the application locally, follow these steps:
 
-... git clone https://github.com/your-username/todo-app.git
+`git clone https://github.com/your-username/todo-app.git`
 
 -Install dependencies:
-... cd todo-app
-... npm install
+`cd todo-app`
+`npm install`
 
 -Start the development server:
 
-... npm run dev
+`npm run dev`
 
 ## Contributing
 
