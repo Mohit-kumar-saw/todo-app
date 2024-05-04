@@ -1,20 +1,19 @@
-# Project Name
+# Todo App
 
-Brief description of your project.
+This is a simple Todo application built with React, Redux Toolkit, Material UI, and integrated with a weather API. Users can add tasks with priorities and view the current weather for a specified location.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- ...
+- Add and delete tasks
+- Set task priorities
+- View current weather information
 
-## Installation
+## Deployment Link
+- https://todo-app-iota-lake.vercel.app/
 
-Describe how to install and set up your project.
+## Getting Started
 
-## Usage
-
-Provide instructions on how to use your project.
+. git clone https://github.com/your-username/todo-app.git
 
 ## Contributing
 
