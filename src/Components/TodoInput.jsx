@@ -105,7 +105,7 @@ const TodoInput = () => {
         <img src="/pic.jpeg" alt="" />
       </div>
       <h1 className="title">TODO LIST</h1>
-      <button className="logout-btn" onClick={() => dispatch(logout())}>
+      <button className="logout-btn" onClick={() => handleLogout()}>
         Logout
       </button>
       <div className="list">
